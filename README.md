@@ -1,7 +1,7 @@
 📱 SMS Spam Detection Using NLP & Machine Learning
 
 
-🧠 Project Overview
+🧠 Project Overview:
 This project focuses on building a spam detection system using Natural Language Processing (NLP) techniques and supervised machine learning models. The dataset consists of thousands of SMS messages labeled as either ham (not spam) or spam. The main goal is to classify incoming messages as spam or ham based on the message content.
 
 
@@ -20,13 +20,14 @@ CountVectorizer for Bag-of-Words model
 
 TfidfVectorizer for TF-IDF representation
 
-🤖 Machine Learning Models
+🤖 Machine Learning Models:
 Trained and tested Multinomial Naive Bayes classifier using both BoW and TF-IDF approaches.
 
-✅ Evaluation Metrics
+✅ Evaluation Metrics:
 Used accuracy to compare the performance of vectorization techniques.
 
 🚀 Tech Stack
+
 Python
 
 NLTK
@@ -38,4 +39,5 @@ Pandas, NumPy
 Matplotlib, Seaborn
 
 📁 Dataset
+
 SMS Spam Collection Dataset
